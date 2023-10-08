@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "category": "스터디",
+    "proceed": "오프라인",
+    "stack": "Java",
+    "position": "백엔드",
+    "numberPeople": 5,
+    "progress": "3개월",
+    "deadline": "2023-07-11"
+  },
+  {
+    "id": 2,
+    "category": "프로젝트",
+    "proceed": "온라인",
+    "stack": "JavaScript",
+    "position": "프론트엔드",
+    "numberPeople": 3,
+    "progress": "2개월",
+    "deadline": "2023-07-11"
+  },
+  {
+    "id": 3,
+    "category": "스터디",
+    "proceed": "오프라인",
+    "stack": "html",
+    "position": "백엔드",
+    "numberPeople": 2,
+    "progress": "3개월",
+    "deadline": "2023-07-11"
+  }
+]
