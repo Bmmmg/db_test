@@ -31,5 +31,27 @@
     "numberPeople": 2,
     "progress": "3개월",
     "deadline": "2023-07-11"
+  },
+   {
+    "id": 4,
+    "title": "재미없는 프로젝트",
+    "category": "스터디",
+    "proceed": "오프라인",
+    "stack": "html",
+    "position": "백엔드",
+    "numberPeople": 2,
+    "progress": "3개월",
+    "deadline": "2023-07-28"
+  },
+   {
+    "id": 5,
+    "title": "좋은 프로젝트",
+    "category": "스터디",
+    "proceed": "오프라인",
+    "stack": "html",
+    "position": "백엔드",
+    "numberPeople": 2,
+    "progress": "3개월",
+    "deadline": "2023-07-18"
   }
 ]
