@@ -8,7 +8,8 @@
     "position": "백엔드",
     "numberPeople": 5,
     "progress": "3개월",
-    "deadline": "2023-07-11"
+    "deadline": "2023-07-11",
+    "leader" : "김창영"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "position": "프론트엔드",
     "numberPeople": 3,
     "progress": "2개월",
-    "deadline": "2023-07-11"
+    "deadline": "2023-07-11",
+     "leader" : "백민기"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "position": "백엔드",
     "numberPeople": 2,
     "progress": "3개월",
-    "deadline": "2023-07-11"
+    "deadline": "2023-07-11",
+     "leader" : "최주완"
   },
    {
     "id": 4,
@@ -41,7 +44,8 @@
     "position": "백엔드",
     "numberPeople": 2,
     "progress": "3개월",
-    "deadline": "2023-07-28"
+    "deadline": "2023-07-28",
+      "leader" : "전정주"
   },
    {
     "id": 5,
@@ -52,6 +56,7 @@
     "position": "백엔드",
     "numberPeople": 2,
     "progress": "3개월",
-    "deadline": "2023-07-18"
+    "deadline": "2023-07-18",
+    "leader" : "김창영"
   }
 ]
